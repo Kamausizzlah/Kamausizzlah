@@ -1,12 +1,16 @@
 # Hi there, I'm Ian! 👋  
 I’m a full-stack software engineer passionate about building scalable web applications, optimizing backend systems, and integrating AI into development. Always eager to learn and explore new technologies! 🚀  
 
-## 🚀 Technologies & Tools  
-**Languages:** Python, SQL  
-**Frontend:** React, Typescript, CSS  
-**Backend:** Django, Flask  
-**Databases:** PostgreSQL, MySQL, Firebase  
-**Tools & Platforms:** Git, Linux, Docker  
+## 🚀 Technologies & Tools 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 🌱 Currently Learning  
 - DevOps technologies 
@@ -20,7 +24,7 @@ I’m a full-stack software engineer passionate about building scalable web appl
 
 ## 📫 How to Reach Me  
 📧 Email: **iankamau112@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/ian-kamau-99920025a/** *(Replace with your actual LinkedIn profile link)*  
+💼 LinkedIn: **https://www.linkedin.com/in/ian-kamau-99920025a/** 
 💻 GitHub: **https://github.com/Kamausizzlah**  
 
 
