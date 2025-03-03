@@ -6,9 +6,9 @@ I’m a full-stack software engineer passionate about building scalable web appl
 
 
 ## 🌱 Currently Learning  
-- DevOps technologies 
-- Advanced API flexibility  
-- AI integration into backend systems  
+- DevOps 
+- Data Structures and algorithms  
+- Django  
 
 ## 🎯 Fun Facts  
 - ☕ My best ideas come when I’m two cups of coffee deep! 
